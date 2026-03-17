@@ -2,115 +2,118 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  display: Liang Geng
+  given: Liang
+  family: Geng
+  alternate: '耿亮'  # Example: 王伟
+  $ pronunciation: ''  # Example: Wáng Wěi
+  # pronouns: he/him
+#postnominals:
+#  - PhD
+#  - MIEEE
+#status:
+#  icon: "☕️"
+role: Ph.D. Candidate
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+ I am Liang Geng, a Ph.D. candidate in the Department of Computer Science and Engineering at The Ohio State University. 
+ My research focuses on **algorithm engineering**, specifically leveraging **NVIDIA RT Cores** to accelerate non-rendering workloads, 
+ such as geospatial data processing.
+ I am co-advised by [Prof. Xiaodong Zhang](https://xiaodongzhang1911.github.io/) and [Dr. Rubao Lee](https://rubaolee.github.io/), 
+ and I maintain close research collaborations with [Prof. Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/) 
+ and [Dr. Hao Wang](https://sites.google.com/site/hwang121). 
+ Prior to joining OSU, I was a Senior Engineer at **Alibaba DAMO Academy** under the supervision of 
+ [Dr. Wenyuan Yu](https://scholar.google.com/citations?user=hqgtnngAAAAJ&hl=en), 
+ where I developed GPU support for [libgrape-lite](https://github.com/alibaba/libgrape-lite).
+
+
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: The Ohio State University
+#    url: https://ai.meta.com/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:geng.161@osu.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+#  - icon: brands/x
+#    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/pwrliang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: hhttps://www.linkedin.com/in/liang-geng-1864b0135/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=GMQXNRUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-3646-1215
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Geospatial Data Processing
+  - Parallel Computing
+  - Distributed Systems
+
+
+
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    institution: The Ohio State University
+    start: 2022
+    end: 2026 (Expected)
+  - degree: M.Eng., Computer Science
+    institution: Northeastern University, China
+    start: 2016
+    end: 2019
+  - degree: B.Eng., Software Engineering
+    institution: Liaoning Technical University, China
+    start: 2012
+    end: 2016
+    
+#experience:
+#  - role: Senior AI Research Scientist
+#    org: Meta AI
+#    start: 2020-01-01
+#    summary: |
+#      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+#    button:
+#      text: View portfolio
+#      url: /
+#      icon: hero/arrow-down-tray
+#  - role: AI Research Intern
+#    org: OpenAI
+#    start: 2019-06-01
+#    end: 2019-12-31
+#    summary: |
+#      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - label: Python
+#        level: 5
+#      - label: Machine Learning
+#        level: 5
+#      - label: Cloud Computing
+#        level: 4
+#  - name: Research & Communication
+#    items:
+#      - label: Academic Writing
+#        level: 5
+#      - label: Conference Presentations
+#        level: 4
+#      - label: Grant Proposals
+#        level: 4
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+#languages:
+#  - name: English
+#    level: 5
+#    label: Native
+#  - name: Spanish
+#    level: 4
+#    label: Fluent
 
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+#  - title: Best Paper Award
+#    awarder: NeurIPS
+#    date: "2022-12-01"
+#    summary: Awarded for groundbreaking work on efficient training of large models.
+#    icon: hero/trophy
