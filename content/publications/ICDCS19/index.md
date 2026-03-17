@@ -25,7 +25,7 @@ publishDate: '2019-07-07T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS'19)"
+publication: "IEEE 39th International Conference on Distributed Computing Systems (ICDCS)"
 publication_short: ''
 
 abstract: ''
@@ -40,10 +40,6 @@ featured: false
 
 draft: false
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: ''
 
 # Custom links
 links:

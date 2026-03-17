@@ -8,7 +8,7 @@ authors:
   - me
   - Rubao Lee
   - Xiaodong Zhang
-publication: "ACM Transactions on Spatial Algorithms and Systems (TSAS'22)"
+publication: "ACM Transactions on Spatial Algorithms and Systems (TSAS)"
 publication_short: ''
 publication_types: ["article-journal"]
 featured: false

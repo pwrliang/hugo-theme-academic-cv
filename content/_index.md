@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: public/cv.pdf
+        url: public/CV_LIANG_GENG_ACADEMIC.pdf
       headings:
         about: ''
         education: ''

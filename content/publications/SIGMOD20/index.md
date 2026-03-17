@@ -11,7 +11,7 @@ authors:
   - Ge Yu
 author_notes: []
 publication: "Proceedings of the 2020 ACM SIGMOD International Conference on
-  Management of Data (SIGMOD'20)"
+  Management of Data (SIGMOD)"
 publication_short: ''
 publication_types: ['paper-conference']
 draft: false

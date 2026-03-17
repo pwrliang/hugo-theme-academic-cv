@@ -10,7 +10,7 @@ authors:
   - Song Yu
   - Ge Yu
   - Jingren Zhou
-publication: "PROCEEDINGS OF THE VLDB ENDOWMENT (VLDB'21)"
+publication: "PROCEEDINGS OF THE VLDB ENDOWMENT (VLDB)"
 publication_short: 
 publication_types: ['paper-conference']
 draft: false
